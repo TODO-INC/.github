@@ -32,6 +32,6 @@ To ensure a positive and inclusive community, we have established a [Code of Con
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE), which means you are free to use, modify, and distribute the code as you see fit.
+This project is licensed under the [GNU GENERAL PUBLIC LICENSE](LICENSE), which means you are free to use, modify, and distribute the code as you see fit.
 
 ---
